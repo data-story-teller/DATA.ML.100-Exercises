@@ -1,6 +1,4 @@
 # Data.Ml.100 Introduction to Pattern Recognition and Machine Learning
-# Md. Mahade Hasan
-# Student Number: 50508332
 # Exercise 1
 
 # Importing Necessary Libraries
